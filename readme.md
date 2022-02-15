@@ -4,7 +4,7 @@
 `pulumi new aws-python --name devec2`
 
 ### Stack Management
-`pulumi stack rm dev`
+|`pulumi stack rm dev`|
 `pulumi stack init staging`
 `pulumi stack ls`
 `pulumi stack select`
