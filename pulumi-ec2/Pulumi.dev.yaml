@@ -1,0 +1,5 @@
+config:
+  aws-test:instance_type: t2.micro
+  aws-test:name: dev
+  aws-test:server_count: "2"
+  aws:region: us-west-2
